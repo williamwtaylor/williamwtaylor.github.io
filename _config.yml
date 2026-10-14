@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "william.taylor.2@bc.edu"
  # location         : "Earth"
-  employer         : "Boston College"
+  employer         : #"Boston College"
   uri              : # URL
   email            : #"william.taylor.2@bc.edu" 
 

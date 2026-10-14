@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33448926/README.md)
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
@@ -6,7 +5,7 @@
 
 # Getting Started
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
 1. Edit site-wide configuration in `_config.yml` and double check that the `url` is the one that you just selected in the previous step and that `repository` reflects the correct path for your repository.

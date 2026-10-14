@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I study how stress interacts with neuroimmune function to shape cognition and behavior.
+I am a Postdoctoral Fellow in the Psychology and Neuroscience Department at Boston College, working under in the laboratory of Dr. Caroline Smith.
+
+My research focuses on stress reshapes neurobiology, specifically neuroimmune function, to influence learning & memory and social behaviors.

@@ -23,7 +23,7 @@ repository               : "williamwtaylor/williamwtaylor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Will head shot.png"
+  avatar           : "Will_headshot.png"
   name             : "Will Taylor"
   pronouns         : # example: "she/her"  
   bio              : "william.taylor.2@bc.edu"

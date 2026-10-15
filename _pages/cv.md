@@ -8,5 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[WilliamTaylor_CV_2026_github.pdf](https://github.com/user-attachments/files/33495191/WilliamTaylor_CV_2026_github.pdf)
 
+<p> <a href="{{ basepath }}/files/WilliamTaylorCV2026github.pdf" target="_blank" rel="noopener noreferrer"> Open CV in a new tab </a> </p>
+
+<iframe src="{{ basepath }}/files/WilliamTaylorCV2026github.pdf" width="100%" height="900px" style="border: none;" title="William Taylor CV"> </iframe>
